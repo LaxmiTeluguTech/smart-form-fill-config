@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "message": "",
+  "enabled": false,
+  "message": "Service temporarily paused. Please try again later.",
   "latestVersion": "1.0.2",
   "updateMessage": "",
   "premiumEnabled": false
